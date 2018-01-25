@@ -9,7 +9,7 @@ Prerequisites
 ![Options 1](/images/OPT1.JPG)
 ![Options 2](/images/OPT2.JPG)
 
--  Python 2.7 (Be sure to enable "Add Python to environment variables", when installing or add Python folder to PATH in environment variables.)
+-  Python 2.7. Be sure to enable "Add Python to environment variables", when installing or add Python folder to PATH in environment variables.
 -  Internet connection
 
 Installation
