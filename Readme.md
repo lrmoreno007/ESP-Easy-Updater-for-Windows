@@ -28,4 +28,4 @@ Using
 	* First section of the script: Download/update ESP Arduino core.
 	* Second section of the script(only ESP32): Download/update submodules.
 	* Third section of the script: Download/update ESP Tools.
--  Open Arduino IDE.
+-  Open Arduino IDE and enjoy.
