@@ -12,12 +12,20 @@ Prerequisites
 -  Python 2.7 (Be sure to enable "Add Python to environment variables", when installing or add Python folder to PATH in environment variables.)
 -  Internet connection
 
-Instructions
+Installation
 -----------------
--  Copy ESP8266.bat and/or ESP32.bat to your Arduino\hardware directory. I recommend your *sketchbook* directory (usually ``c:\Users\<User>\Documents\Arduino\hardware``), but may be the directory of Arduino application itself ``c:\<Program Files>\Arduino\hardware`` in 64bits or ``c:\<Program Files (x86)>\Arduino\hardware`` in 32bits, the choice is up to you.
+-  Copy ESP8266.bat and/or ESP32.bat to your Arduino\hardware directory. One of this (the choice is up to you):
+	* ``c:\Users\<User>\Documents\Arduino\hardware`` **Recommended: because that's how it's independent of its version of Arduino**
+	* ``c:\<Program Files>\Arduino\hardware`` in 64bits
+	* ``c:\<Program Files (x86)>\Arduino\hardware`` in 32bits
+
+-  For faster access you can create shortcuts to the scripts in your desktop (for example).
+
+Installation
+-----------------
+-  Close Arduino IDE.
 -  Start ESP8266.bat and/or ESP32.bat for download/update the ESP8266 and/or ESP32 Arduino core. Press any button to continue after download/update every section:
-	First section of the script: Download/update ESP Arduino core.
-	Second section of the script(only ESP32): Download/update submodules.
-	Third section of the script: Download/update ESP Tools.
--  For faster access you can create shortcuts to the scripts on the desktop (for example).
--  Restart Arduino
+	* First section of the script: Download/update ESP Arduino core.
+	* Second section of the script(only ESP32): Download/update submodules.
+	* Third section of the script: Download/update ESP Tools.
+-  Open Arduino IDE.
