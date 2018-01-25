@@ -2,7 +2,7 @@ Using ESP8266/ESP32 Easy Downloader/Updater Script for Windows
 -----------------
 
 Prerequisites
-~~~~~~~~~~~~~
+-----------------
 -  Arduino 1.6.8 (or newer, if you know what you are doing)
 -  Git for Windows https://git-scm.com/download/win Be sure to activate these options when prompted when installing, they are usually enabled by default:
 ![Options 1](/images/OPT1.JPG)
