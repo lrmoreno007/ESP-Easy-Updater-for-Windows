@@ -14,7 +14,7 @@ Prerequisites
 
 Installation
 -----------------
--  Copy ESP8266.bat and/or ESP32.bat to your Arduino\hardware directory. One of this (the choice is up to you):
+-  Copy ESP8266.bat and/or ESP32.bat to your Arduino\hardware directory (create it if doesn't exist). One of this (the choice is up to you):
 	* ``c:\Users\<User>\Documents\Arduino\hardware`` **Recommended**
 	* ``c:\<Program Files>\Arduino\hardware`` in 64bits
 	* ``c:\<Program Files (x86)>\Arduino\hardware`` in 32bits
