@@ -26,6 +26,6 @@ Using
 -  Close Arduino IDE.
 -  Start ESP8266.bat and/or ESP32.bat for download/update the ESP8266 and/or ESP32 Arduino core. Press any button to continue after download/update every section:
 	* First section of the script: Download/update ESP Arduino core.
-	* Second section of the script (only ESP32): Download/update submodules.
+	* Second section of the script: Download/update submodules.
 	* Third section of the script: Download/update ESP Tools.
 -  Open Arduino IDE and enjoy.
