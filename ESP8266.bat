@@ -14,7 +14,10 @@ cd esp8266
 echo Updating ESP8266 Arduino core	
 git pull
 pause
+echo Updating submodules	
+git submodule update --init --recursive
+pause
 cd tools
 echo Downloading/updating Tools
-python get.py
+"C:\Program Files (x86)\Python36-32\python.exe" get.py
 pause
