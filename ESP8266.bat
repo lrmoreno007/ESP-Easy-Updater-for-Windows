@@ -19,5 +19,5 @@ git submodule update --init --recursive
 pause
 cd tools
 echo Downloading/updating Tools
-"C:\Program Files (x86)\Python36-32\python.exe" get.py
+python.exe get.py
 pause
